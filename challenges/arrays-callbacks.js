@@ -20,7 +20,7 @@ const zooAnimals = [
 The zoos want to display both the scientific name and the animal name in front of the habitats. Populate the displayNames array with only the animal_name and scientific_name of each animal. displayNames will be an array of strings, and each string should follow this pattern: "Name: Jackal, asiatic, Scientific: Canis aureus."
 
 */
-const displayNames = [];
+const displayNames = [hello];
 console.log(displayNames);
 
 /* Request 2: .map()
@@ -61,7 +61,7 @@ console.log(populationTotal);
 
 /* Step 2: Create several functions to callback with consume();
   * Create a function named add that returns the sum of two numbers
-  * Create a function named multiply that returns the product of two numbers 
+  * Create a function named multiply that returns the product of two numbers
   * Create a function named greeting that accepts a first and last name and returns "Hello first-name last-name, nice to meet you!"
 */
 
